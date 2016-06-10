@@ -22,10 +22,9 @@ textarea {
 
 .center {
   text-align: center;
-}
-
-.center h1 {
-  margin-bottom: 10px;
+  h1 {
+    margin-bottom: 10px;
+  }
 }
 
 
@@ -67,11 +66,10 @@ p {
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
-}
-
-#logo:hover {
-  color: #fff;
-  text-decoration: none;
+  &:hover {
+    color: #fff;
+    text-decoration: none;
+  }
 }
 
 /* footer */
@@ -95,7 +93,7 @@ footer {
     list-style: none;
     li {
       float: left;
-      margin-left: 15 px;
+      margin-left: 15px;
     }
   }
 }
