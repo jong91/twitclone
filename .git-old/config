@@ -1,0 +1,23 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@bitbucket.org:jong91/sample_app.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "heroku"]
+	url = https://git.heroku.com/guarded-waters-20636.git
+	fetch = +refs/heads/*:refs/remotes/heroku/*
+[branch "static-pages"]
+	remote = origin
+	merge = refs/heads/static-pages
+[branch "static-pages-exercises"]
+	remote = origin
+	merge = refs/heads/static-pages-exercises
+[branch "filling-in-layout"]
+	remote = origin
+	merge = refs/heads/filling-in-layout

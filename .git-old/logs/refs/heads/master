@@ -1,0 +1,32 @@
+0000000000000000000000000000000000000000 93e2f1775cfb9c669d6b0aa5ad8a512d10d8e433 jong91 <jon.ong@comcast.net> 1465416439 -0700	commit (initial): Initialize repository
+93e2f1775cfb9c669d6b0aa5ad8a512d10d8e433 6920f33f725a711c7cfd8d8b590151000bcb53b3 jong91 <jon.ong@comcast.net> 1465416488 -0700	commit: change README from .rdoc to .md
+6920f33f725a711c7cfd8d8b590151000bcb53b3 e1fddec45444a402ff2d8706053874a6778e2e2c jong91 <jon.ong@comcast.net> 1465416631 -0700	commit: improve the README
+e1fddec45444a402ff2d8706053874a6778e2e2c 31a42ca886f41cc4df329c417dda079ac6beb692 jong91 <jon.ong@comcast.net> 1465416850 -0700	commit: Add hello
+31a42ca886f41cc4df329c417dda079ac6beb692 f31973f7023c415e77ee2760f069343ebbcb2738 jong91 <jon.ong@comcast.net> 1465428529 -0700	merge static-pages: Fast-forward
+f31973f7023c415e77ee2760f069343ebbcb2738 f381498496e0ec52d93ba75a6bddaf1d30785355 jong91 <jon.ong@comcast.net> 1465428773 -0700	commit: update db/schema.rb
+f381498496e0ec52d93ba75a6bddaf1d30785355 cee2fc2d723e1f0811fc0041936f7aee2eab297e jong91 <jon.ong@comcast.net> 1465429029 -0700	commit: fix config/application.rb to push to heroku
+cee2fc2d723e1f0811fc0041936f7aee2eab297e 00d07bae906acc672503562133412566ec22b419 jong91 <jon.ong@comcast.net> 1465446108 -0700	commit: Add Guardfile
+00d07bae906acc672503562133412566ec22b419 1220484ec85643902deb1b8f4e992fc9027bb6b4 jong91 <jon.ong@comcast.net> 1465446330 -0700	commit: able to push to heroku
+1220484ec85643902deb1b8f4e992fc9027bb6b4 a69b49d0b5210d6d9244efcfe380a41e385b0f82 jong91 <jon.ong@comcast.net> 1465446979 -0700	commit: add contact page
+a69b49d0b5210d6d9244efcfe380a41e385b0f82 c83fbf63b3ce57e4f5b5b23a12905b94b6582c25 jong91 <jon.ong@comcast.net> 1465448299 -0700	commit: re-add contact page
+c83fbf63b3ce57e4f5b5b23a12905b94b6582c25 b5405b01e837b0e58f7779a61e436c2162a89662 jong91 <jon.ong@comcast.net> 1465535921 -0700	commit: Add a full_title helper
+b5405b01e837b0e58f7779a61e436c2162a89662 e1739f0bacffa5365e3213654641e508378aeee2 jong91 <jon.ong@comcast.net> 1465596426 -0700	merge filling-in-layout: Fast-forward
+e1739f0bacffa5365e3213654641e508378aeee2 354191c383c2c0b28bb051dcb7b98ba1360b836c jong91 <jon.ong@comcast.net> 1465596559 -0700	commit: edit to push to heroku
+354191c383c2c0b28bb051dcb7b98ba1360b836c a9cd4be4b7bcab87900e6b0faa4503ce1ac5fb10 jong91 <jon.ong@comcast.net> 1465596901 -0700	commit: Fix footer css
+a9cd4be4b7bcab87900e6b0faa4503ce1ac5fb10 86d8f572527cc536ed535629618c0c4815ef9053 jong91 <jon.ong@comcast.net> 1465865195 -0700	commit: Add test helper for sign up page
+86d8f572527cc536ed535629618c0c4815ef9053 498abae3846af20953efb74b6da78baf38397429 jong91 <jon.ong@comcast.net> 1465865235 -0700	commit: edit to push to heroku
+498abae3846af20953efb74b6da78baf38397429 972623ac2f89c357366667a8e3ae67af78c639ac jong91 <jon.ong@comcast.net> 1465885572 -0700	merge modeling-users: Fast-forward
+972623ac2f89c357366667a8e3ae67af78c639ac 7090105ddf9467c1c78324659ac8efe9221aec67 jong91 <jon.ong@comcast.net> 1466046847 -0700	merge sign-up: Fast-forward
+7090105ddf9467c1c78324659ac8efe9221aec67 a9aa586c217dbcce8c7df4fc15cc7955ffb4b862 jong91 <jon.ong@comcast.net> 1466047924 -0700	commit: Use SSL and the Puma webserver in production
+a9aa586c217dbcce8c7df4fc15cc7955ffb4b862 a0958d904ce8af219d4e159eba8a761b679de659 jong91 <jon.ong@comcast.net> 1466121839 -0700	commit: Add user signup test
+a0958d904ce8af219d4e159eba8a761b679de659 763ce5b84bb1bc3b9ec6e1fd8314261baf26a78d jong91 <jon.ong@comcast.net> 1466211518 -0700	merge log-in-log-out: Fast-forward
+763ce5b84bb1bc3b9ec6e1fd8314261baf26a78d df3db458f8d136f0d8ce22da82d4953445930898 jong91 <jon.ong@comcast.net> 1466461602 -0700	commit: Make some idiomatic edits
+df3db458f8d136f0d8ce22da82d4953445930898 70e5b324cf2b4d6ef4d58a050f43f5e2b44e5798 jong91 <jon.ong@comcast.net> 1466483915 -0700	merge updating-users: Fast-forward
+70e5b324cf2b4d6ef4d58a050f43f5e2b44e5798 40defb828cf3648f371a420ec73503aef33b9260 jong91 <jon.ong@comcast.net> 1466555861 -0700	commit: Reduce redundancy for signup and edit pages
+40defb828cf3648f371a420ec73503aef33b9260 5513b8018f7347e76a140dc953425aee831fe692 jong91 <jon.ong@comcast.net> 1466632978 -0700	merge account-activation-password-reset: Fast-forward
+5513b8018f7347e76a140dc953425aee831fe692 14ea3fd4d554207ecdc2a5de7c7d7fbce932e708 jong91 <jon.ong@comcast.net> 1466643245 -0700	commit: Clean up some redundancies
+14ea3fd4d554207ecdc2a5de7c7d7fbce932e708 abf7e6f137fb8f23ac57fa73fae4cc8bd6724370 jong91 <jon.ong@comcast.net> 1466722776 -0700	merge user-microposts: Fast-forward
+abf7e6f137fb8f23ac57fa73fae4cc8bd6724370 dc73cbf0959e84d9b351235fd04dad73b799ad05 jong91 <jon.ong@comcast.net> 1466722841 -0700	commit: Edit application.rb to push to heroku
+dc73cbf0959e84d9b351235fd04dad73b799ad05 fe43a0b5a10a639281bfe5baa61eda86d4fe89a7 jong91 <jon.ong@comcast.net> 1466724065 -0700	commit: Add a couple accidentally unsaved files
+fe43a0b5a10a639281bfe5baa61eda86d4fe89a7 b8b9a7f346c1153685f63fcf313fa43a5ee04b80 jong91 <jon.ong@comcast.net> 1466724936 -0700	commit: Add region to fog credentials
+b8b9a7f346c1153685f63fcf313fa43a5ee04b80 79e8b057587b34c00b3c4de7a526f5ed8b7f6f23 jong91 <jon.ong@comcast.net> 1466741757 -0700	commit: Add partials to render Home page

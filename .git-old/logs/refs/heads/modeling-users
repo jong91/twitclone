@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 498abae3846af20953efb74b6da78baf38397429 jong91 <jon.ong@comcast.net> 1465865799 -0700	branch: Created from HEAD
+498abae3846af20953efb74b6da78baf38397429 972623ac2f89c357366667a8e3ae67af78c639ac jong91 <jon.ong@comcast.net> 1465885554 -0700	commit: Make a basic User model with secure pw's

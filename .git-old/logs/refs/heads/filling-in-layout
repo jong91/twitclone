@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 b5405b01e837b0e58f7779a61e436c2162a89662 jong91 <jon.ong@comcast.net> 1465580856 -0700	branch: Created from HEAD
+b5405b01e837b0e58f7779a61e436c2162a89662 d71dfb9918b124ad0f1fc9c9f192c4acdc7fa2d8 jong91 <jon.ong@comcast.net> 1465586814 -0700	commit: add bootstrap
+d71dfb9918b124ad0f1fc9c9f192c4acdc7fa2d8 3272062387cc31812dc6d7232ef7ca732121cb24 jong91 <jon.ong@comcast.net> 1465587377 -0700	commit: add some css to home page
+3272062387cc31812dc6d7232ef7ca732121cb24 443c6ff838d9f1f8b8145070e4123e9b7eb83fc2 jong91 <jon.ong@comcast.net> 1465587596 -0700	commit: add custom font styling
+443c6ff838d9f1f8b8145070e4123e9b7eb83fc2 e1739f0bacffa5365e3213654641e508378aeee2 jong91 <jon.ong@comcast.net> 1465596403 -0700	commit: Finish layout and routes
